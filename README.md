@@ -12,6 +12,8 @@ The project is organized as follows:
 - **`train_model.py`**: Python script that handles the training process for the NER model.
 - **`inference.py`**: Python script for testing the trained model on sample text.
 - **`Mountain_Recognition.ipynb`**: Jupyter notebook that walks through the entire process from data generation to model training and inference.
+- **`Mountain_Recognition_Recommendations.pdf`**: A PDF document containing recommendations on how to improve model performance, including dataset expansion, model improvements, and more.
+
 
 ## Steps to Use the Project
 
