@@ -22,7 +22,7 @@ def recognize_mountains(nlp, text):
 
 def main():
     # Path to the trained SpaCy model
-    model_path = "model/model-best"
+    model_path = "model/output/model-best"
 
     # Load the model
     nlp = load_model(model_path)
