@@ -21,8 +21,8 @@ To get started, you'll need Python 3.6 or later. First, clone the repository and
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mountain-recognition.git
-cd mountain-recognition
+git clone https://github.com/InnaK342/mountain-recognition-ner.git
+cd mountain-recognition-ner
 
 # Install required dependencies
 pip install -r requirements.txt
